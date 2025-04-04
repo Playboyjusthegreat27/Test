@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "You don't even know why I invited you to this subway do you!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "No? I assumed you wanted to meet me and be friends?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "tired",
+			"text": "You're kidding with me right? Maybe he was right,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "mockingly",
+			"text": "we aren't from this place"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Like a differnet state?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "NO YOU DUMBASS! NOT FROM THIS PLANET!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "YOU ARE AN ALIEN?! THAT'S COOL"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "furious",
+			"text": "NO, ARE YOU SLOW? I'M NOT EVEN FROM YOUR UNIVERSE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "dumbfounded",
+			"text": "w-w-"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "WHAT?"
+		},
+		{
+			"speed": 0.01,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "scared",
+			"text": "THAT DOESN'T EVEN MAKE SENSE HOW ARE YOU HERE? DID YOU WARP HERE? WAS IT PLOT ARMOR? THIS MAKES NO SENSE"
+		},
+		{
+			"speed": 0.005,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "scared",
+			"text": "ALIENS MAKE MORE SENSE THAN ANYTHING ELSE. EXPLAIN. NOW DO IT, EXPLAIN HOW WHY?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "Calmingdown",
+			"text": "I wanted to prove to him that he was wrong and you can help"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "but now I want to cut off loose ends who knows we are here"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "NOW DIE!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "scared",
+			"text": "w-what does that mean?"
+		}
+	]
+}

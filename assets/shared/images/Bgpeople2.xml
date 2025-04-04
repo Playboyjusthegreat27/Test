@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WEEK 2 BG.fla.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG characters ALL TOGETHER0000" x="0" y="0" width="2259" height="1004" frameX="-9" frameY="0" frameWidth="2272" frameHeight="1004"/>
+	<SubTexture name="BG characters ALL TOGETHER0001" x="0" y="0" width="2259" height="1004" frameX="-9" frameY="0" frameWidth="2272" frameHeight="1004"/>
+	<SubTexture name="BG characters ALL TOGETHER0002" x="0" y="1004" width="2267" height="999" frameX="-5" frameY="-4" frameWidth="2272" frameHeight="1004"/>
+	<SubTexture name="BG characters ALL TOGETHER0003" x="0" y="1004" width="2267" height="999" frameX="-5" frameY="-4" frameWidth="2272" frameHeight="1004"/>
+	<SubTexture name="BG characters ALL TOGETHER0004" x="0" y="2003" width="2271" height="990" frameX="0" frameY="-10" frameWidth="2272" frameHeight="1004"/>
+	<SubTexture name="BG characters ALL TOGETHER0005" x="0" y="2003" width="2271" height="990" frameX="0" frameY="-10" frameWidth="2272" frameHeight="1004"/>
+	<SubTexture name="BG characters ALL TOGETHER0006" x="0" y="2003" width="2271" height="990" frameX="0" frameY="-10" frameWidth="2272" frameHeight="1004"/>
+	<SubTexture name="BG characters ALL TOGETHER0007" x="0" y="2003" width="2271" height="990" frameX="0" frameY="-10" frameWidth="2272" frameHeight="1004"/>
+	<SubTexture name="BG characters ALL TOGETHER0008" x="0" y="2003" width="2271" height="990" frameX="0" frameY="-10" frameWidth="2272" frameHeight="1004"/>
+	<SubTexture name="BG characters ALL TOGETHER0009" x="0" y="2003" width="2271" height="990" frameX="0" frameY="-10" frameWidth="2272" frameHeight="1004"/>
+	<SubTexture name="BG characters ALL TOGETHER0010" x="0" y="2003" width="2271" height="990" frameX="0" frameY="-10" frameWidth="2272" frameHeight="1004"/>
+	<SubTexture name="BG characters ALL TOGETHER0011" x="0" y="2003" width="2271" height="990" frameX="0" frameY="-10" frameWidth="2272" frameHeight="1004"/>
+	<SubTexture name="BG characters ALL TOGETHER0012" x="0" y="2003" width="2271" height="990" frameX="0" frameY="-10" frameWidth="2272" frameHeight="1004"/>
+	<SubTexture name="BG characters ALL TOGETHER0013" x="0" y="2003" width="2271" height="990" frameX="0" frameY="-10" frameWidth="2272" frameHeight="1004"/>
+	<SubTexture name="BG characters ALL TOGETHER0014" x="0" y="2003" width="2271" height="990" frameX="0" frameY="-10" frameWidth="2272" frameHeight="1004"/>
+	<SubTexture name="BG characters ALL TOGETHER0015" x="0" y="2003" width="2271" height="990" frameX="0" frameY="-10" frameWidth="2272" frameHeight="1004"/>
+</TextureAtlas>

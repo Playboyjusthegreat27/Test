@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "tired",
+			"text": "alright Sam, you want to learn how to rap real good? then let's get this show on the road"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "tired",
+			"text": "because I’m done going easy on you, prove that you can rap by beating me one last time"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "alr bet BUT THAT LAST SONG WAS GOOD"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Well I learn from my daddad"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "happy",
+			"text": "Yeah! Well alr daddyOFive let’s rap battle!"
+		}
+	]
+}

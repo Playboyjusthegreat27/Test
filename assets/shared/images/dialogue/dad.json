@@ -1,0 +1,89 @@
+{
+	"position": [
+		60,
+		-180
+	],
+	"dialogue_pos": "left",
+	"scale": 1.05,
+	"image": "dad_Dialogue",
+	"animations": [
+		{
+			"loop_name": "DADtalkloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "DADtalkloop",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "DADangryloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "DADangry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "DADpissedloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "DADpissed",
+			"anim": "unamused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "DADsmug",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "DADsmug",
+			"anim": "smug",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Dad tired",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Dad tired",
+			"anim": "tired",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Dad tired-excited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Dad tired-excited",
+			"anim": "tired excited",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF & BF dialogueStuff.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFSad0000" x="5" y="5" width="524" height="534"/>
+	<SubTexture name="BFSad0001" x="5" y="5" width="524" height="534"/>
+	<SubTexture name="BFSad0002" x="534" y="5" width="524" height="534"/>
+	<SubTexture name="BFSad0003" x="534" y="5" width="524" height="534"/>
+	<SubTexture name="BFSad0004" x="1063" y="5" width="524" height="534"/>
+	<SubTexture name="BFSad0005" x="1063" y="5" width="524" height="534"/>
+	<SubTexture name="BFTalk0000" x="1592" y="5" width="518" height="534"/>
+	<SubTexture name="BFangry0000" x="2115" y="5" width="519" height="554"/>
+	<SubTexture name="BFangry0001" x="2115" y="5" width="519" height="554"/>
+	<SubTexture name="BFangry0002" x="2639" y="5" width="519" height="554"/>
+	<SubTexture name="BFangry0003" x="2639" y="5" width="519" height="554"/>
+	<SubTexture name="BFangry0004" x="3163" y="5" width="519" height="554"/>
+	<SubTexture name="BFangry0005" x="3163" y="5" width="519" height="554"/>
+	<SubTexture name="BFbrrrrr0000" x="3687" y="5" width="558" height="558"/>
+	<SubTexture name="BFbrrrrr0001" x="4250" y="5" width="558" height="558"/>
+	<SubTexture name="BFbrrrrr0002" x="4813" y="5" width="558" height="558"/>
+	<SubTexture name="BFbrrrrr0003" x="5376" y="5" width="558" height="558"/>
+	<SubTexture name="BFbrrrrr0004" x="5939" y="5" width="558" height="558"/>
+	<SubTexture name="BFbrrrrr0005" x="5939" y="5" width="558" height="558"/>
+	<SubTexture name="BFconcerned0000" x="6502" y="5" width="526" height="547"/>
+	<SubTexture name="BFconcerned0001" x="6502" y="5" width="526" height="547"/>
+	<SubTexture name="BFconcerned0002" x="7033" y="5" width="526" height="547"/>
+	<SubTexture name="BFconcerned0003" x="7033" y="5" width="526" height="547"/>
+	<SubTexture name="BFconcerned0004" x="7564" y="5" width="526" height="547"/>
+	<SubTexture name="BFconcerned0005" x="7564" y="5" width="526" height="547"/>
+	<SubTexture name="BFconfident0000" x="5" y="568" width="530" height="544"/>
+	<SubTexture name="BFconfident0001" x="5" y="568" width="530" height="544"/>
+	<SubTexture name="BFconfident0002" x="540" y="568" width="530" height="544"/>
+	<SubTexture name="BFconfident0003" x="540" y="568" width="530" height="544"/>
+	<SubTexture name="BFconfident0004" x="1075" y="568" width="530" height="544"/>
+	<SubTexture name="BFconfident0005" x="1075" y="568" width="530" height="544"/>
+	<SubTexture name="BFconfused0000" x="1610" y="568" width="519" height="554"/>
+	<SubTexture name="BFconfused0001" x="2134" y="568" width="519" height="554"/>
+	<SubTexture name="BFconfused0002" x="2658" y="568" width="519" height="554"/>
+	<SubTexture name="BFconfused0003" x="3182" y="568" width="519" height="554"/>
+	<SubTexture name="BFconfused0004" x="3706" y="568" width="519" height="554"/>
+	<SubTexture name="BFconfused0005" x="3706" y="568" width="519" height="554"/>
+	<SubTexture name="BFdumbfounded0000" x="4230" y="568" width="455" height="534"/>
+	<SubTexture name="BFdumbfounded0001" x="4230" y="568" width="455" height="534"/>
+	<SubTexture name="BFembarrassed0000" x="4690" y="568" width="534" height="544"/>
+	<SubTexture name="BFembarrassed0001" x="4690" y="568" width="534" height="544"/>
+	<SubTexture name="BFembarrassed0002" x="5229" y="568" width="534" height="544"/>
+	<SubTexture name="BFembarrassed0003" x="5229" y="568" width="534" height="544"/>
+	<SubTexture name="BFembarrassed0004" x="5768" y="568" width="534" height="544"/>
+	<SubTexture name="BFembarrassed0005" x="5768" y="568" width="534" height="544"/>
+	<SubTexture name="BFexcited0000" x="6307" y="568" width="530" height="544"/>
+	<SubTexture name="BFexcited0001" x="6842" y="568" width="530" height="544"/>
+	<SubTexture name="BFexcited0002" x="7377" y="568" width="530" height="544"/>
+	<SubTexture name="BFexcited0003" x="5" y="1127" width="530" height="544"/>
+	<SubTexture name="BFexcited0004" x="540" y="1127" width="530" height="544"/>
+	<SubTexture name="BFexcited0005" x="1075" y="1127" width="530" height="544"/>
+	<SubTexture name="BFhappy0000" x="1610" y="1127" width="519" height="554"/>
+	<SubTexture name="BFhappy0001" x="1610" y="1127" width="519" height="554"/>
+	<SubTexture name="BFhappy0002" x="2134" y="1127" width="519" height="554"/>
+	<SubTexture name="BFhappy0003" x="2134" y="1127" width="519" height="554"/>
+	<SubTexture name="BFhappy0004" x="2658" y="1127" width="519" height="554"/>
+	<SubTexture name="BFhappy0005" x="2658" y="1127" width="519" height="554"/>
+	<SubTexture name="BFrelieved0000" x="3182" y="1127" width="519" height="554"/>
+	<SubTexture name="BFrelieved0001" x="3182" y="1127" width="519" height="554"/>
+	<SubTexture name="BFrelieved0002" x="3706" y="1127" width="519" height="554"/>
+	<SubTexture name="BFrelieved0003" x="4230" y="1127" width="519" height="554"/>
+	<SubTexture name="BFrelieved0004" x="4754" y="1127" width="519" height="554"/>
+	<SubTexture name="BFrelieved0005" x="5278" y="1127" width="519" height="554"/>
+	<SubTexture name="BFrelieved0006" x="5802" y="1127" width="519" height="554"/>
+	<SubTexture name="BFrelieved0007" x="6326" y="1127" width="519" height="554"/>
+	<SubTexture name="BFrelieved0008" x="6326" y="1127" width="519" height="554"/>
+	<SubTexture name="BFrelieved0009" x="6326" y="1127" width="519" height="554"/>
+	<SubTexture name="BFrelieved0010" x="6326" y="1127" width="519" height="554"/>
+	<SubTexture name="BFrelieved0011" x="6326" y="1127" width="519" height="554"/>
+	<SubTexture name="BFrelieved0012" x="6326" y="1127" width="519" height="554"/>
+	<SubTexture name="BFscared0000" x="6850" y="1127" width="466" height="542"/>
+	<SubTexture name="BFscared0001" x="7321" y="1127" width="466" height="542"/>
+	<SubTexture name="BFscared0002" x="5" y="1686" width="466" height="542"/>
+	<SubTexture name="BFscared0003" x="476" y="1686" width="466" height="542"/>
+	<SubTexture name="BFscared0004" x="947" y="1686" width="466" height="542"/>
+	<SubTexture name="BFscared0005" x="1418" y="1686" width="466" height="542"/>
+	<SubTexture name="BFshocked0000" x="1889" y="1686" width="470" height="536"/>
+	<SubTexture name="BFshocked0001" x="1889" y="1686" width="470" height="536"/>
+	<SubTexture name="BFshocked0002" x="1889" y="1686" width="470" height="536"/>
+	<SubTexture name="BFshocked0003" x="1889" y="1686" width="470" height="536"/>
+	<SubTexture name="BFshocked0004" x="1889" y="1686" width="470" height="536"/>
+	<SubTexture name="BFshocked0005" x="1889" y="1686" width="470" height="536"/>
+	<SubTexture name="BFslightycheer0000" x="2364" y="1686" width="519" height="554"/>
+	<SubTexture name="BFslightycheer0001" x="2364" y="1686" width="519" height="554"/>
+	<SubTexture name="BFslightycheer0002" x="2888" y="1686" width="519" height="554"/>
+	<SubTexture name="BFslightycheer0003" x="2888" y="1686" width="519" height="554"/>
+	<SubTexture name="BFslightycheer0004" x="3412" y="1686" width="519" height="554"/>
+	<SubTexture name="BFslightycheer0005" x="3412" y="1686" width="519" height="554"/>
+	<SubTexture name="BFthinking0000" x="3936" y="1686" width="633" height="420"/>
+	<SubTexture name="BFthinking0001" x="3936" y="1686" width="633" height="420"/>
+	<SubTexture name="BFthinking0002" x="3936" y="1686" width="633" height="420"/>
+	<SubTexture name="BFthinking0003" x="3936" y="1686" width="633" height="420"/>
+	<SubTexture name="BFthinking0004" x="3936" y="1686" width="633" height="420"/>
+	<SubTexture name="BFthinking0005" x="3936" y="1686" width="633" height="420"/>
+	<SubTexture name="BFupset0000" x="4574" y="1686" width="519" height="554"/>
+	<SubTexture name="BFupset0001" x="4574" y="1686" width="519" height="554"/>
+	<SubTexture name="BFupset0002" x="5098" y="1686" width="519" height="554"/>
+	<SubTexture name="BFupset0003" x="5098" y="1686" width="519" height="554"/>
+	<SubTexture name="BFupset0004" x="5622" y="1686" width="519" height="554"/>
+	<SubTexture name="BFupset0005" x="5622" y="1686" width="519" height="554"/>
+	<SubTexture name="BFworried0000" x="6850" y="1127" width="466" height="542"/>
+	<SubTexture name="BFworried0001" x="7321" y="1127" width="466" height="542"/>
+	<SubTexture name="BFworried0002" x="5" y="1686" width="466" height="542"/>
+	<SubTexture name="BFworried0003" x="476" y="1686" width="466" height="542"/>
+	<SubTexture name="BFworried0004" x="947" y="1686" width="466" height="542"/>
+	<SubTexture name="BFworried0005" x="1418" y="1686" width="466" height="542"/>
+	<SubTexture name="GFConcerned copy0000" x="6146" y="1686" width="625" height="598"/>
+	<SubTexture name="GFConcerned copy0001" x="6146" y="1686" width="625" height="598"/>
+	<SubTexture name="GFConcerned copy0002" x="6776" y="1686" width="625" height="598"/>
+	<SubTexture name="GFConcerned copy0003" x="6776" y="1686" width="625" height="598"/>
+	<SubTexture name="GFConcerned copy0004" x="7406" y="1686" width="625" height="598"/>
+	<SubTexture name="GFConcerned copy0005" x="7406" y="1686" width="625" height="598"/>
+	<SubTexture name="GFConfused copy0000" x="5" y="2289" width="621" height="593"/>
+	<SubTexture name="GFConfused copy0001" x="5" y="2289" width="621" height="593"/>
+	<SubTexture name="GFConfused copy0002" x="631" y="2289" width="621" height="593"/>
+	<SubTexture name="GFConfused copy0003" x="631" y="2289" width="621" height="593"/>
+	<SubTexture name="GFConfused copy0004" x="1257" y="2289" width="621" height="593"/>
+	<SubTexture name="GFConfused copy0005" x="1883" y="2289" width="621" height="593"/>
+	<SubTexture name="GFNormal copy0000" x="2509" y="2289" width="578" height="586"/>
+	<SubTexture name="GFNormal copy0001" x="2509" y="2289" width="578" height="586"/>
+	<SubTexture name="GFNormal copy0002" x="3092" y="2289" width="578" height="586"/>
+	<SubTexture name="GFNormal copy0003" x="3092" y="2289" width="578" height="586"/>
+	<SubTexture name="GFNormal copy0004" x="3675" y="2289" width="578" height="586"/>
+	<SubTexture name="GFNormal copy0005" x="3675" y="2289" width="578" height="586"/>
+	<SubTexture name="GFangryloop copy0000" x="4258" y="2289" width="478" height="611"/>
+	<SubTexture name="GFangryloop copy0001" x="4258" y="2289" width="478" height="611"/>
+	<SubTexture name="GFangryloop copy0002" x="4741" y="2289" width="478" height="611"/>
+	<SubTexture name="GFangryloop copy0003" x="4741" y="2289" width="478" height="611"/>
+	<SubTexture name="GFangryloop copy0004" x="5224" y="2289" width="478" height="611"/>
+	<SubTexture name="GFangryloop copy0005" x="5224" y="2289" width="478" height="611"/>
+	<SubTexture name="GFexcited copy0000" x="5707" y="2289" width="572" height="593"/>
+	<SubTexture name="GFexcited copy0001" x="6284" y="2289" width="572" height="593"/>
+	<SubTexture name="GFexcited copy0002" x="6861" y="2289" width="572" height="593"/>
+	<SubTexture name="GFexcited copy0003" x="7438" y="2289" width="572" height="593"/>
+	<SubTexture name="GFexcited copy0004" x="5" y="2905" width="572" height="593"/>
+	<SubTexture name="GFexcited copy0005" x="582" y="2905" width="572" height="593"/>
+	<SubTexture name="GFpissedloop copy0000" x="1159" y="2905" width="619" height="598"/>
+	<SubTexture name="GFpissedloop copy0001" x="1159" y="2905" width="619" height="598"/>
+	<SubTexture name="GFpissedloop copy0002" x="1783" y="2905" width="619" height="598"/>
+	<SubTexture name="GFpissedloop copy0003" x="1783" y="2905" width="619" height="598"/>
+	<SubTexture name="GFpissedloop copy0004" x="2407" y="2905" width="619" height="598"/>
+	<SubTexture name="GFpissedloop copy0005" x="3031" y="2905" width="619" height="598"/>
+	<SubTexture name="GFtalkloop copy0000" x="3655" y="2905" width="595" height="593"/>
+	<SubTexture name="GFtalkloop copy0001" x="3655" y="2905" width="595" height="593"/>
+	<SubTexture name="GFtalkloop copy0002" x="4255" y="2905" width="595" height="593"/>
+	<SubTexture name="GFtalkloop copy0003" x="4255" y="2905" width="595" height="593"/>
+	<SubTexture name="GFtalkloop copy0004" x="4855" y="2905" width="595" height="593"/>
+	<SubTexture name="GFtalkloop copy0005" x="5455" y="2905" width="595" height="593"/>
+	<SubTexture name="bftalkloop0000" x="6055" y="2905" width="519" height="554"/>
+	<SubTexture name="bftalkloop0001" x="6055" y="2905" width="519" height="554"/>
+	<SubTexture name="bftalkloop0002" x="6579" y="2905" width="519" height="554"/>
+	<SubTexture name="bftalkloop0003" x="6579" y="2905" width="519" height="554"/>
+	<SubTexture name="bftalkloop0004" x="7103" y="2905" width="519" height="554"/>
+	<SubTexture name="bftalkloop0005" x="7103" y="2905" width="519" height="554"/>
+</TextureAtlas>

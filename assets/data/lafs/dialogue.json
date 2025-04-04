@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GFconcerned",
+			"text": "Sam, what's wrong?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Oh, it's nothing"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "I'm just kinda concerned about my rapping \\skills...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GFtalkIdle",
+			"text": "Oh. I see. well can I do anything to help?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "slightycheer",
+			"text": "Maybe we could sing?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GFexcited",
+			"text": " Oh! that sounds like fun, let's do it!"
+		}
+	]
+}

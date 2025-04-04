@@ -1,0 +1,245 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-20,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "BFexcited",
+			"idle_name": "BFexcited"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				-1
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "BFshocked",
+			"idle_name": "BFshocked"
+		},
+		{
+			"loop_name": "BFworried",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFworried",
+			"anim": "worried",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BFthinking",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFthinking",
+			"anim": "thinking",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bftalkloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFTalk",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BFupset",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFupset",
+			"anim": "upset",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BFslightycheer",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFslightycheer",
+			"anim": "slightycheer",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BFSad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFSad",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BFhappy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFhappy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BFembarrassed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFembarrassed",
+			"anim": "embarrassed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BFscared",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFscared",
+			"anim": "scared",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BFrelieved",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFrelieved",
+			"anim": "relieved",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BFconfused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFconfused",
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BFdumbfounded",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFdumbfounded",
+			"anim": "dumbfounded",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BFconfident",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFconfident",
+			"anim": "confident",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BFconcerned",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFconcerned",
+			"anim": "concerned",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BFangry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFangry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BFbrrrr",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFbrrrr",
+			"anim": "br",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "BF_Dialogue"
+}

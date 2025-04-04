@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GFnormal",
+			"text": "I'm not the best at rapping, but my dad is!\\nSo i asked him to help you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Awwww you're so sweet, and thank you\\nso much!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So you wanted to learn to rap better Sam?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "embarrassed",
+			"text": "OH- Uhh I-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah that's why I'm here"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "well you came to the right place Sam"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Briah, do me a favor and play the beat for me?"
+		}
+	]
+}

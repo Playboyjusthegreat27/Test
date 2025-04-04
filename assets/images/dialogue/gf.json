@@ -1,0 +1,102 @@
+{
+	"position": [
+		-20,
+		50
+	],
+	"dialogue_pos": "center",
+	"scale": 1,
+	"image": "BF_Dialogue",
+	"animations": [
+		{
+			"loop_name": "GFtalkloop copy",
+			"idle_offsets": [
+				40,
+				40
+			],
+			"idle_name": "GFtalkloop copy",
+			"anim": "GFtalkIdle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "GFangryloop copy",
+			"idle_offsets": [
+				60,
+				40
+			],
+			"idle_name": "GFangryloop copy",
+			"anim": "GFangry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "GFpissedloop copy",
+			"idle_offsets": [
+				40,
+				40
+			],
+			"idle_name": "GFpissedloop copy",
+			"anim": "GFunamused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "GFConcerned copy",
+			"idle_offsets": [
+				40,
+				40
+			],
+			"idle_name": "GFConcerned copy",
+			"anim": "GFconcerned",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "GFNormal copy",
+			"idle_offsets": [
+				40,
+				40
+			],
+			"idle_name": "GFNormal copy",
+			"anim": "GFnormal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "GFexcited copy",
+			"idle_offsets": [
+				40,
+				40
+			],
+			"idle_name": "GFexcited copy",
+			"anim": "GFexcited",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "GFConfused copy",
+			"idle_offsets": [
+				40,
+				40
+			],
+			"idle_name": "GFConfused copy",
+			"anim": "GFconfused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

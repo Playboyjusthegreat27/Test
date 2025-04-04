@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				207
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "shaggy_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-87,
+				357
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "shaggy_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				330
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "shaggy_idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-74,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "shaggy_left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				204
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISSDOWN SHAGGY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				478
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISSUP SHAGGY",
+			"indices": []
+		},
+		{
+			"offsets": [
+				76,
+				295
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "shaggy_right"
+		},
+		{
+			"offsets": [
+				102,
+				305
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "MISSRIGHT SHAGGY"
+		},
+		{
+			"offsets": [
+				-56,
+				253
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "MISSLEFT SHAGGY"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shaggy",
+	"position": [
+		0,
+		340
+	],
+	"healthicon": "shaggy",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		255,
+		155
+	],
+	"camera_position": [
+		110,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

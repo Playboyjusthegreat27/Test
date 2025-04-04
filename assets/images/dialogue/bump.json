@@ -1,0 +1,167 @@
+{
+	"position": [
+		-400,
+		-350
+	],
+	"dialogue_pos": "left",
+	"scale": 1.05,
+	"image": "Bump_Dialogue",
+	"animations": [
+		{
+			"loop_name": "AngyBOTH",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "AngyBOTH",
+			"anim": "AngyBoth",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "annoyedBOTH",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "annoyedBOTH",
+			"anim": "Annoyedboth",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "annoyedPUMP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "annoyedPUMP",
+			"anim": "AnnoyedPump",
+			"loop_offsets": [
+				2,
+				0
+			]
+		},
+		{
+			"loop_name": "annoyedSKID",
+			"idle_offsets": [
+				1,
+				-9
+			],
+			"idle_name": "annoyedSKID",
+			"anim": "AnnoyedSkid",
+			"loop_offsets": [
+				1,
+				-9
+			]
+		},
+		{
+			"loop_name": "ConfidentBOTH",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ConfidentBOTH",
+			"anim": "ConfidentBoth",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ConfidentSKID",
+			"idle_offsets": [
+				0,
+				-13
+			],
+			"idle_name": "ConfidentSKID",
+			"anim": "ConfidentSkid",
+			"loop_offsets": [
+				0,
+				-13
+			]
+		},
+		{
+			"loop_name": "MockinglyBOTH",
+			"idle_offsets": [
+				0,
+				-8
+			],
+			"idle_name": "MockinglyBOTH",
+			"anim": "MockinglyBoth",
+			"loop_offsets": [
+				0,
+				-8
+			]
+		},
+		{
+			"loop_name": "PointySKID",
+			"idle_offsets": [
+				11,
+				11
+			],
+			"idle_name": "PointySKID",
+			"anim": "PointySkid",
+			"loop_offsets": [
+				11,
+				11
+			]
+		},
+		{
+			"loop_name": "Comehere",
+			"idle_offsets": [
+				18,
+				4
+			],
+			"idle_name": "Comehere",
+			"anim": "Comehere",
+			"loop_offsets": [
+				18,
+				4
+			]
+		},
+		{
+			"loop_name": "CryingPUMP",
+			"idle_offsets": [
+				73,
+				57
+			],
+			"idle_name": "CryingPUMP",
+			"anim": "CryingPump",
+			"loop_offsets": [
+				73,
+				57
+			]
+		},
+		{
+			"loop_name": "PumpAngyAtSkid",
+			"idle_offsets": [
+				77,
+				20
+			],
+			"idle_name": "PumpAngyAtSkid",
+			"anim": "angyAtSkid",
+			"loop_offsets": [
+				77,
+				20
+			]
+		},
+		{
+			"loop_name": "SkidAngyAtPUMP",
+			"idle_offsets": [
+				52,
+				0
+			],
+			"idle_name": "SkidAngyAtPUMP",
+			"anim": "AngyAtPump",
+			"loop_offsets": [
+				52,
+				0
+			]
+		}
+	]
+}

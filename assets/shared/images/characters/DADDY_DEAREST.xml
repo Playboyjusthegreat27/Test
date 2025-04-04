@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CARTOON Dad_assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad How0000" x="5" y="5" width="410" height="746"/>
+	<SubTexture name="Dad How0001" x="5" y="5" width="410" height="746"/>
+	<SubTexture name="Dad How0002" x="420" y="5" width="410" height="746"/>
+	<SubTexture name="Dad How0003" x="420" y="5" width="410" height="746"/>
+	<SubTexture name="Dad How0004" x="835" y="5" width="410" height="746"/>
+	<SubTexture name="Dad How0005" x="835" y="5" width="410" height="746"/>
+	<SubTexture name="Dad How0006" x="1250" y="5" width="410" height="746"/>
+	<SubTexture name="Dad How0007" x="1250" y="5" width="410" height="746"/>
+	<SubTexture name="Dad How0008" x="1665" y="5" width="410" height="746"/>
+	<SubTexture name="Dad How0009" x="1665" y="5" width="410" height="746"/>
+	<SubTexture name="Dad How0010" x="2080" y="5" width="410" height="746"/>
+	<SubTexture name="Dad How0011" x="2080" y="5" width="410" height="746"/>
+	<SubTexture name="Dad How0012" x="2495" y="5" width="410" height="746"/>
+	<SubTexture name="Dad How0013" x="2495" y="5" width="410" height="746"/>
+	<SubTexture name="Dad How0014" x="2910" y="5" width="410" height="746"/>
+	<SubTexture name="Dad How0015" x="3325" y="5" width="410" height="746"/>
+	<SubTexture name="Dad How0016" x="5" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0017" x="5" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0018" x="5" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0019" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0020" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0021" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0022" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0023" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0024" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0025" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0026" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0027" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0028" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0029" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0030" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0031" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0032" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0033" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0034" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0035" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0036" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0037" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0038" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0039" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0040" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0041" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0042" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0043" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0044" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad How0045" x="420" y="756" width="410" height="746"/>
+	<SubTexture name="Dad Sing Note DOWN0000" x="835" y="756" width="374" height="715"/>
+	<SubTexture name="Dad Sing Note DOWN0001" x="835" y="756" width="374" height="715"/>
+	<SubTexture name="Dad Sing Note DOWN0002" x="1214" y="756" width="374" height="715"/>
+	<SubTexture name="Dad Sing Note DOWN0003" x="1214" y="756" width="374" height="715"/>
+	<SubTexture name="Dad Sing Note DOWN0004" x="1593" y="756" width="374" height="715"/>
+	<SubTexture name="Dad Sing Note DOWN0005" x="1593" y="756" width="374" height="715"/>
+	<SubTexture name="Dad Sing Note DOWN0006" x="1593" y="756" width="374" height="715"/>
+	<SubTexture name="Dad Sing Note DOWN0007" x="1593" y="756" width="374" height="715"/>
+	<SubTexture name="Dad Sing Note DOWN0008" x="1593" y="756" width="374" height="715"/>
+	<SubTexture name="Dad Sing Note DOWN0009" x="1593" y="756" width="374" height="715"/>
+	<SubTexture name="Dad Sing Note DOWN0010" x="1593" y="756" width="374" height="715"/>
+	<SubTexture name="Dad Sing Note DOWN0011" x="1593" y="756" width="374" height="715"/>
+	<SubTexture name="Dad Sing Note DOWN0012" x="1593" y="756" width="374" height="715"/>
+	<SubTexture name="Dad Sing Note DOWN0013" x="1593" y="756" width="374" height="715"/>
+	<SubTexture name="Dad Sing Note DOWN0014" x="1593" y="756" width="374" height="715"/>
+	<SubTexture name="Dad Sing Note DOWN0015" x="1593" y="756" width="374" height="715"/>
+	<SubTexture name="Dad Sing Note LEFT0000" x="1972" y="756" width="430" height="764"/>
+	<SubTexture name="Dad Sing Note LEFT0001" x="1972" y="756" width="430" height="764"/>
+	<SubTexture name="Dad Sing Note LEFT0002" x="2407" y="756" width="430" height="764"/>
+	<SubTexture name="Dad Sing Note LEFT0003" x="2407" y="756" width="430" height="764"/>
+	<SubTexture name="Dad Sing Note LEFT0004" x="2842" y="756" width="430" height="764"/>
+	<SubTexture name="Dad Sing Note LEFT0005" x="2842" y="756" width="430" height="764"/>
+	<SubTexture name="Dad Sing Note LEFT0006" x="2842" y="756" width="430" height="764"/>
+	<SubTexture name="Dad Sing Note LEFT0007" x="2842" y="756" width="430" height="764"/>
+	<SubTexture name="Dad Sing Note LEFT0008" x="2842" y="756" width="430" height="764"/>
+	<SubTexture name="Dad Sing Note LEFT0009" x="2842" y="756" width="430" height="764"/>
+	<SubTexture name="Dad Sing Note LEFT0010" x="2842" y="756" width="430" height="764"/>
+	<SubTexture name="Dad Sing Note LEFT0011" x="2842" y="756" width="430" height="764"/>
+	<SubTexture name="Dad Sing Note LEFT0012" x="2842" y="756" width="430" height="764"/>
+	<SubTexture name="Dad Sing Note LEFT0013" x="2842" y="756" width="430" height="764"/>
+	<SubTexture name="Dad Sing Note LEFT0014" x="2842" y="756" width="430" height="764"/>
+	<SubTexture name="Dad Sing Note LEFT0015" x="2842" y="756" width="430" height="764"/>
+	<SubTexture name="Dad Sing Note RIGHT0000" x="3277" y="756" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0001" x="3277" y="756" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0002" x="5" y="1526" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0003" x="5" y="1526" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0004" x="422" y="1526" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0005" x="422" y="1526" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0006" x="422" y="1526" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0007" x="422" y="1526" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0008" x="422" y="1526" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0009" x="422" y="1526" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0010" x="422" y="1526" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0011" x="422" y="1526" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0012" x="422" y="1526" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0013" x="422" y="1526" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0014" x="422" y="1526" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0015" x="422" y="1526" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0016" x="422" y="1526" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0017" x="422" y="1526" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note RIGHT0018" x="422" y="1526" width="412" height="765"/>
+	<SubTexture name="Dad Sing Note UP0000" x="839" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0001" x="839" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0002" x="1289" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0003" x="1289" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0004" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0005" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0006" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0007" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0008" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0009" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0010" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0011" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0012" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0013" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0014" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0015" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0016" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0017" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0018" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0019" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0020" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0021" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0022" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0023" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0024" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0025" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0026" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0027" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0028" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0029" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0030" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0031" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0032" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0033" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0034" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0035" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0036" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0037" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0038" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0039" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0040" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0041" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0042" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0043" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0044" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0045" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0046" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0047" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0048" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0049" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0050" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0051" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0052" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0053" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0054" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0055" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0056" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0057" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0058" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad Sing Note UP0059" x="1739" y="1526" width="445" height="785"/>
+	<SubTexture name="Dad idle dance0000" x="2189" y="1526" width="417" height="746"/>
+	<SubTexture name="Dad idle dance0001" x="2189" y="1526" width="417" height="746"/>
+	<SubTexture name="Dad idle dance0002" x="2611" y="1526" width="417" height="746"/>
+	<SubTexture name="Dad idle dance0003" x="2611" y="1526" width="417" height="746"/>
+	<SubTexture name="Dad idle dance0004" x="3033" y="1526" width="417" height="746"/>
+	<SubTexture name="Dad idle dance0005" x="3033" y="1526" width="417" height="746"/>
+	<SubTexture name="Dad idle dance0006" x="3455" y="1526" width="417" height="746"/>
+	<SubTexture name="Dad idle dance0007" x="3455" y="1526" width="417" height="746"/>
+	<SubTexture name="Dad idle dance0008" x="5" y="2316" width="417" height="746"/>
+	<SubTexture name="Dad idle dance0009" x="5" y="2316" width="417" height="746"/>
+	<SubTexture name="Dad idle dance0010" x="427" y="2316" width="417" height="746"/>
+	<SubTexture name="Dad idle dance0011" x="427" y="2316" width="417" height="746"/>
+	<SubTexture name="Dad idle dance0012" x="427" y="2316" width="417" height="746"/>
+</TextureAtlas>

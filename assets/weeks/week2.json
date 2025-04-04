@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"Me and the boys",
+			"spooky",
+			[
+				255,
+				133,
+				213
+			]
+		],
+		[
+			"Spittin",
+			"spooky",
+			[
+				255,
+				133,
+				213
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "bois",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Day 2: the line cutters",
+	"weekName": "Fortnite kids",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week1",
+	"startUnlocked": true
+}

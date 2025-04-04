@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GFexcited",
+			"text": "Thanks for taking me to this haunted house Sam! I'm really excited!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I'm just as excited as you are! I've been trying to get us here for weeks"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "concerned",
+			"text": "Wait, how are we going to get in? there's like so many people"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "Hmmmm"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "WAIT I GOT IT!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Let's cut those kids up there!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "GFconcerned",
+			"text": "Are you sure? what if they get upset-"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "COME ON BRIAH"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "br",
+			"text": "(they try to cut through)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Bump",
+			"boxState": "angry",
+			"expression": "Annoyedboth",
+			"text": "HEY! We were in line first!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "scared",
+			"text": "Oh I thought u wouldn't mind"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Bump",
+			"boxState": "normal",
+			"expression": "MockinglyBoth",
+			"text": "What gives you the privileges?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Bump",
+			"boxState": "normal",
+			"expression": "AngyBoth",
+			"text": "You pretty boi from tiktok"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Oh okay Alvin and the chipmunks!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Bump",
+			"boxState": "normal",
+			"expression": "AnnoyedSkid",
+			"text": "Oh you've done it now!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Bump",
+			"boxState": "angry",
+			"expression": "AnnoyedSkid",
+			"text": "rap us for our spot!"
+		}
+	]
+}

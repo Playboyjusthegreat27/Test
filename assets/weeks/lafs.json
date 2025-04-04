@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"lafs",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "tutorial",
+	"weekCharacters": [
+		"gf",
+		"bf",
+		"gf"
+	],
+	"storyName": "cheering up",
+	"weekName": "pretty girl from tiktiok",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week1",
+	"startUnlocked": true
+}

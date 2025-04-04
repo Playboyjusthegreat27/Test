@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Bra bra",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"beatboxin",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Core doors",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "(part 2) auditions",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

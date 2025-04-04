@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				33
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				46
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-81,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				59
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-10
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-72,
+				48
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				30
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				602,
+				81
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies3",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				105,
+				15
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				79
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				52
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				50
+			],
+			"anim": "FLUTE",
+			"fps": 24,
+			"name": "BF FLUTE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boyfriendhappy",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		80,
+		215
+	],
+	"camera_position": [
+		110,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

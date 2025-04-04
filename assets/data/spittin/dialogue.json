@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "Bump",
+			"boxState": "normal",
+			"expression": "AnnoyedSkid",
+			"text": "fine you won just go inside"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "br",
+			"text": "(Sam and Briah go inside)"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "Bump",
+			"boxState": "angry",
+			"expression": "AngyAtPump",
+			"text": "BUMP WHAT THE FRICK WERE YOU DOING?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Bump",
+			"boxState": "angry",
+			"expression": "angyAtSkid",
+			"text": "WHAT WERE YOU DOING?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "br",
+			"text": "(about 45 minutes later)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Bump",
+			"boxState": "angry",
+			"expression": "Annoyedboth",
+			"text": "HEY!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "OH-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Bump",
+			"boxState": "normal",
+			"expression": "AnnoyedSkid",
+			"text": "You didn't think WE forgot about you"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "Bump",
+			"boxState": "angry",
+			"expression": "CryingPump",
+			"text": "YEAH I WAS CRYING TO MY MOMMY SAYING WHAT HAPPENED"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Bump",
+			"boxState": "normal",
+			"expression": "AngyAtPump",
+			"text": "Bump stop you're ruining how cool we are"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "uhhh should I be going or-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Bump",
+			"boxState": "normal",
+			"expression": "ConfidentBoth",
+			"text": "NOPE, because of what happened approximately 45 minutes ago, now we're gonna ruin your date"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Bump",
+			"boxState": "normal",
+			"expression": "PointySkid",
+			"text": "Follow Us"
+		}
+	]
+}

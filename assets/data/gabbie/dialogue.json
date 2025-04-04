@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(This is where the letter said to go but no one is here?)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "(Man I wish Briah was here instead of going to the eye doctor)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "StrangeSilhouette",
+			"text": "Are you Sam?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "concerned",
+			"text": "The answer havily depends on the next few \\sentences"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "StrangeSilhouette",
+			"text": "I'm here for a rap battle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "relieved",
+			"text": "Oh okay"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "Emerging",
+			"text": "if you lose though I will beat you with this banana"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "scared",
+			"text": "HEY BACK UP WITH THAT BANANA I'M \\ALLERGIC TO BANANAS"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "Talk123",
+			"text": "Ha Ha Ha! I know I was just keeping you on your toes"
+		},
+		{
+			"speed": 0.09,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "embarrassed",
+			"text": "Oh okay..."
+		}
+	]
+}

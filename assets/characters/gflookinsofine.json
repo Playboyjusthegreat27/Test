@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				144,
+				137
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GFLOOKINCUTE",
+	"position": [
+		-110,
+		-70
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		100,
+		255
+	],
+	"camera_position": [
+		80,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

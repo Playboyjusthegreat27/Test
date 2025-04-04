@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Not bad Sam, but I'm still not tooo sure with your skills"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Let's run it back"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confident",
+			"text": "I’ll show YOU rapping"
+		}
+	]
+}

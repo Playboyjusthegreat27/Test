@@ -1,0 +1,16 @@
+gf:left bf:right
+:0:concerned:0.05:normal:Sam what's wrong?
+:1:sad:0.05:normal:Oh, it's nothing
+:0:concerned:0.05:normal:Hey don't give me that i know your upset
+:1:upset:0.05:normal:I'm just kinda worried about my rapping
+:1:upset:0.05:normal:abilities y’know?
+:0:concerned:0.05:normal:Oh, I see, well can I do anything to help?
+:1:upset:0.05:normal:Maybe if you sang with me?
+:0:talkIdle:0.05:normal:Oh! That sounds like fun, lets do it
+:1:slightycheer:0.05:normal:Ok! Let's do it
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="monster dialouge.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Monstertalk0000" x="0" y="0" width="491" height="796" frameX="-5" frameY="0" frameWidth="501" frameHeight="796"/>
+	<SubTexture name="Monstertalk0001" x="0" y="0" width="491" height="796" frameX="-5" frameY="0" frameWidth="501" frameHeight="796"/>
+	<SubTexture name="Monstertalk0002" x="491" y="0" width="501" height="776" frameX="0" frameY="-12" frameWidth="501" frameHeight="796"/>
+	<SubTexture name="Monstertalk0003" x="491" y="0" width="501" height="776" frameX="0" frameY="-12" frameWidth="501" frameHeight="796"/>
+	<SubTexture name="Monstertalk0004" x="992" y="0" width="501" height="754" frameX="0" frameY="-34" frameWidth="501" frameHeight="796"/>
+	<SubTexture name="Monstertalk0005" x="992" y="0" width="501" height="754" frameX="0" frameY="-34" frameWidth="501" frameHeight="796"/>
+</TextureAtlas>

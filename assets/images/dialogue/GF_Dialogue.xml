@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF & BF dialogueStuff.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFConcerned copy0000" x="5" y="5" width="625" height="598"/>
+	<SubTexture name="GFConcerned copy0001" x="5" y="5" width="625" height="598"/>
+	<SubTexture name="GFConcerned copy0002" x="635" y="5" width="625" height="598"/>
+	<SubTexture name="GFConcerned copy0003" x="635" y="5" width="625" height="598"/>
+	<SubTexture name="GFConcerned copy0004" x="1265" y="5" width="625" height="598"/>
+	<SubTexture name="GFConcerned copy0005" x="1265" y="5" width="625" height="598"/>
+	<SubTexture name="GFConfused copy0000" x="1895" y="5" width="621" height="593"/>
+	<SubTexture name="GFConfused copy0001" x="1895" y="5" width="621" height="593"/>
+	<SubTexture name="GFConfused copy0002" x="2521" y="5" width="621" height="593"/>
+	<SubTexture name="GFConfused copy0003" x="2521" y="5" width="621" height="593"/>
+	<SubTexture name="GFConfused copy0004" x="3147" y="5" width="621" height="593"/>
+	<SubTexture name="GFConfused copy0005" x="5" y="608" width="621" height="593"/>
+	<SubTexture name="GFNormal copy0000" x="631" y="608" width="578" height="586"/>
+	<SubTexture name="GFNormal copy0001" x="631" y="608" width="578" height="586"/>
+	<SubTexture name="GFNormal copy0002" x="1214" y="608" width="578" height="586"/>
+	<SubTexture name="GFNormal copy0003" x="1214" y="608" width="578" height="586"/>
+	<SubTexture name="GFNormal copy0004" x="1797" y="608" width="578" height="586"/>
+	<SubTexture name="GFNormal copy0005" x="1797" y="608" width="578" height="586"/>
+	<SubTexture name="GFangryloop copy0000" x="2380" y="608" width="478" height="611"/>
+	<SubTexture name="GFangryloop copy0001" x="2380" y="608" width="478" height="611"/>
+	<SubTexture name="GFangryloop copy0002" x="2863" y="608" width="478" height="611"/>
+	<SubTexture name="GFangryloop copy0003" x="2863" y="608" width="478" height="611"/>
+	<SubTexture name="GFangryloop copy0004" x="3346" y="608" width="478" height="611"/>
+	<SubTexture name="GFangryloop copy0005" x="3346" y="608" width="478" height="611"/>
+	<SubTexture name="GFexcited copy0000" x="5" y="1224" width="572" height="593"/>
+	<SubTexture name="GFexcited copy0001" x="582" y="1224" width="572" height="593"/>
+	<SubTexture name="GFexcited copy0002" x="1159" y="1224" width="572" height="593"/>
+	<SubTexture name="GFexcited copy0003" x="1736" y="1224" width="572" height="593"/>
+	<SubTexture name="GFexcited copy0004" x="2313" y="1224" width="572" height="593"/>
+	<SubTexture name="GFexcited copy0005" x="2890" y="1224" width="572" height="593"/>
+	<SubTexture name="GFpissedloop copy0000" x="3467" y="1224" width="619" height="598"/>
+	<SubTexture name="GFpissedloop copy0001" x="3467" y="1224" width="619" height="598"/>
+	<SubTexture name="GFpissedloop copy0002" x="5" y="1827" width="619" height="598"/>
+	<SubTexture name="GFpissedloop copy0003" x="5" y="1827" width="619" height="598"/>
+	<SubTexture name="GFpissedloop copy0004" x="629" y="1827" width="619" height="598"/>
+	<SubTexture name="GFpissedloop copy0005" x="1253" y="1827" width="619" height="598"/>
+	<SubTexture name="GFtalkloop copy0000" x="1877" y="1827" width="595" height="593"/>
+	<SubTexture name="GFtalkloop copy0001" x="1877" y="1827" width="595" height="593"/>
+	<SubTexture name="GFtalkloop copy0002" x="2477" y="1827" width="595" height="593"/>
+	<SubTexture name="GFtalkloop copy0003" x="2477" y="1827" width="595" height="593"/>
+	<SubTexture name="GFtalkloop copy0004" x="3077" y="1827" width="595" height="593"/>
+	<SubTexture name="GFtalkloop copy0005" x="5" y="2430" width="595" height="593"/>
+</TextureAtlas>

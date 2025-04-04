@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-6.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ANIMATION COOL0000" x="5" y="5" width="1152" height="1126"/>
+	<SubTexture name="ANIMATION COOL0001" x="1162" y="5" width="1152" height="1126"/>
+</TextureAtlas>

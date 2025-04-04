@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Beast_DOWN"
+		},
+		{
+			"offsets": [
+				-66,
+				104
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Beast_IDLE"
+		},
+		{
+			"offsets": [
+				31,
+				127
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Beast_UP"
+		},
+		{
+			"offsets": [
+				40,
+				59
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Beast_LEFT"
+		},
+		{
+			"offsets": [
+				-142,
+				95
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Beast_RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Xenophanes Biro",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Xenophanesbiro",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		135,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

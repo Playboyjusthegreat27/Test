@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="campaign_menu_UI_assets.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M BF Idle0000" x="0" y="0" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="M bf HEY0000" x="0" y="0" width="0" height="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+</TextureAtlas>

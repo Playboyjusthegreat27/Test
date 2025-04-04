@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Skid&BUMP diialouge.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AngyBOTH0000" x="0" y="0" width="1328" height="1073"/>
+	<SubTexture name="Comehere0000" x="1328" y="0" width="1442" height="1136"/>
+	<SubTexture name="ConfidentBOTH0000" x="2770" y="0" width="1332" height="1083"/>
+	<SubTexture name="ConfidentSKID0000" x="4102" y="0" width="1329" height="1041"/>
+	<SubTexture name="ConfidentSKID0001" x="4102" y="0" width="1329" height="1041"/>
+	<SubTexture name="CryingPUMP0000" x="5431" y="0" width="1642" height="1217"/>
+	<SubTexture name="MockinglyBOTH0000" x="0" y="1217" width="1335" height="1071"/>
+	<SubTexture name="PointySKID0000" x="1335" y="1217" width="1450" height="1124"/>
+	<SubTexture name="PumpAngyAtSkid0000" x="2785" y="1217" width="1693" height="1226"/>
+	<SubTexture name="SkidAngyAtPUMP0000" x="4478" y="1217" width="1613" height="1183"/>
+	<SubTexture name="annoyedBOTH0000" x="6091" y="1217" width="1316" height="1082"/>
+	<SubTexture name="annoyedPUMP0000" x="0" y="2443" width="1323" height="1081"/>
+	<SubTexture name="annoyedSKID0000" x="1323" y="2443" width="1336" height="1062"/>
+</TextureAtlas>

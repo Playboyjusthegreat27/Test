@@ -1,0 +1,24 @@
+{
+	"position": [
+		90,
+		-90
+	],
+	"dialogue_pos": "left",
+	"scale": 1.05,
+	"image": "Monster_Dialogue",
+	"animations": [
+		{
+			"loop_name": "Monstertalk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Monstertalk",
+			"anim": "Talking",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

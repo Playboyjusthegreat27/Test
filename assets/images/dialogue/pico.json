@@ -1,0 +1,128 @@
+{
+	"position": [
+		-30,
+		-90
+	],
+	"dialogue_pos": "left",
+	"scale": 0.95,
+	"image": "Pico_Dialogue",
+	"animations": [
+		{
+			"loop_name": "PICOtalkloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PICOtalkloop",
+			"anim": "Talk123",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PICOtired",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PICOtired",
+			"anim": "tired",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PICOpissedloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PICOpissed",
+			"anim": "smug",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PICOmockingly",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PICOmockingly",
+			"anim": "mockingly",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PICOfurious",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PICOfurious",
+			"anim": "furious",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PICOemerging",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PICOemerging",
+			"anim": "Emerging",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PICOcalmingdown",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PICOcalmingdown",
+			"anim": "Calmingdown",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PICOangryloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PICOangry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PICOStrangeSilhouette",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PICOStrangeSilhouette",
+			"anim": "StrangeSilhouette",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}
