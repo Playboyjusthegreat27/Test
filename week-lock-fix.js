@@ -5,7 +5,10 @@
       backend_WeekData.weeksLoaded && backend_WeekData.weeksLoaded.h;
     var leWeek = loaded && loaded[name];
 
-    if (!leWeek || leWeek.startUnlocked) return false;
+    // Freeplay expects every unlocked week to contain a songs array.
+    // Treat incomplete week entries as unavailable so create() skips them.
+    if (!leWeek || !Array.isArray(leWeek.songs)) return true;
+    if (leWeek.startUnlocked) return false;
 
     var before = leWeek.weekBefore;
     if (typeof before !== "string" || before.length === 0) return false;
