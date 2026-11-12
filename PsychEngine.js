@@ -105512,7 +105512,7 @@ var lime_utils_AssetCache = function() {
 	this.audio = new haxe_ds_StringMap();
 	this.font = new haxe_ds_StringMap();
 	this.image = new haxe_ds_StringMap();
-	this.version = 949891;
+	this.version = 986585;
 };
 $hxClasses["lime.utils.AssetCache"] = lime_utils_AssetCache;
 lime_utils_AssetCache.__name__ = "lime.utils.AssetCache";
@@ -160134,7 +160134,7 @@ states_FreeplayState.prototype = $extend(backend_MusicBeatState.prototype,{
 	}
 	,weekIsLocked: function(name) {
 		var leWeek = backend_WeekData.weeksLoaded.h[name];
-		if(!leWeek.startUnlocked && leWeek.weekBefore.length > 0) {
+		if(leWeek != null && !leWeek.startUnlocked && leWeek.weekBefore != null && leWeek.weekBefore.length > 0) {
 			if(Object.prototype.hasOwnProperty.call(states_StoryMenuState.weekCompleted.h,leWeek.weekBefore)) {
 				return !states_StoryMenuState.weekCompleted.h[leWeek.weekBefore];
 			} else {
