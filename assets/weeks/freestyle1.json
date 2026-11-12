@@ -1,0 +1,43 @@
+{
+  "songs": [
+    [
+      "Doobop",
+      "dad",
+      [
+        146,
+        113,
+        253
+      ]
+    ],
+    [
+      "Refreshed",
+      "dad",
+      [
+        146,
+        113,
+        253
+      ]
+    ],
+    [
+      "Spooky Fight",
+      "dad",
+      [
+        146,
+        113,
+        253
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "dad",
+    "bf",
+    "gf"
+  ],
+  "weekBackground": "stage",
+  "storyName": "Freestyle: Week 1",
+  "weekBefore": "week7",
+  "weekName": "Freestyle Week 1",
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}

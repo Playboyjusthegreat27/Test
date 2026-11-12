@@ -1,0 +1,43 @@
+{
+  "songs": [
+    [
+      "Ecstacy",
+      "mom-car",
+      [
+        215,
+        0,
+        0
+      ]
+    ],
+    [
+      "Cruise Control",
+      "mom-car",
+      [
+        215,
+        0,
+        0
+      ]
+    ],
+    [
+      "Joyride",
+      "mom-car",
+      [
+        215,
+        0,
+        0
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "mom-car",
+    "bf",
+    "gf-car"
+  ],
+  "weekBackground": "limo",
+  "storyName": "Freestyle: Week 4",
+  "weekBefore": "freestyle3",
+  "weekName": "Freestyle Week 4",
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}

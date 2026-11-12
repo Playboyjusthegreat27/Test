@@ -1,0 +1,43 @@
+{
+  "songs": [
+    [
+      "Slurry",
+      "parents-christmas",
+      [
+        180,
+        0,
+        0
+      ]
+    ],
+    [
+      "Flurry",
+      "parents-christmas",
+      [
+        180,
+        0,
+        0
+      ]
+    ],
+    [
+      "Snowblind",
+      "parents-christmas",
+      [
+        180,
+        0,
+        0
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "parents-christmas",
+    "bf",
+    "gf-christmas"
+  ],
+  "weekBackground": "mall",
+  "storyName": "Freestyle: Week 5",
+  "weekBefore": "freestyle4",
+  "weekName": "Freestyle Week 5",
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}

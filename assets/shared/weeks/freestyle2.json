@@ -1,0 +1,43 @@
+{
+  "songs": [
+    [
+      "Creepz",
+      "spooky",
+      [
+        165,
+        0,
+        77
+      ]
+    ],
+    [
+      "North",
+      "spooky",
+      [
+        165,
+        0,
+        77
+      ]
+    ],
+    [
+      "Night Lights",
+      "pico",
+      [
+        255,
+        150,
+        0
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "spooky",
+    "bf",
+    "gf"
+  ],
+  "weekBackground": "halloween",
+  "storyName": "Freestyle: Week 2",
+  "weekBefore": "freestyle1",
+  "weekName": "Freestyle Week 2",
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}

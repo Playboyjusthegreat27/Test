@@ -1,0 +1,43 @@
+{
+  "songs": [
+    [
+      "Social Suicide",
+      "senpai",
+      [
+        255,
+        170,
+        210
+      ]
+    ],
+    [
+      "Recess",
+      "senpai-angry",
+      [
+        255,
+        100,
+        160
+      ]
+    ],
+    [
+      "Splinters",
+      "senpai-angry",
+      [
+        255,
+        100,
+        160
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "senpai",
+    "bf",
+    "gf-pixel"
+  ],
+  "weekBackground": "school",
+  "storyName": "Freestyle: Week 6",
+  "weekBefore": "freestyle5",
+  "weekName": "Freestyle Week 6",
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}

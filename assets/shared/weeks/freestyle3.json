@@ -1,0 +1,43 @@
+{
+  "songs": [
+    [
+      "Gunfight",
+      "pico",
+      [
+        255,
+        150,
+        0
+      ]
+    ],
+    [
+      "Funky Nice",
+      "pico",
+      [
+        255,
+        150,
+        0
+      ]
+    ],
+    [
+      "Turf War",
+      "pico",
+      [
+        255,
+        150,
+        0
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "pico",
+    "bf",
+    "gf"
+  ],
+  "weekBackground": "philly",
+  "storyName": "Freestyle: Week 3",
+  "weekBefore": "freestyle2",
+  "weekName": "Freestyle Week 3",
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}
